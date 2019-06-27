@@ -1,0 +1,7 @@
+Os materiais piezoelétricos são materiais que quando submetidos a compressão mecânica geram uma diferença de potencial bem específica, e inversamente, a aplicação de uma diferença de potencial provoca uma deformação mecânica.
+
+O cristal de piezoelétrico mais comum é o cristal de quartzo. Estes cristais são encontrados em estado bruto na forma de bastões com secção hexagonal, no qual se destacam 3 eixos: Eixo X (elétrico), Eixo Y (mecânico) e o eixo Z (óptico).
+
+Para a criação do cristal oscilador, o material bruto é cortado em lâminas finas. E a frequência de ressonância da lâmina será determinada pelas dimensões mecânicas do cristal no momento do seu corte.
+
+A frequência de ressonância de um cristal de quartzo está aproximadamente entre 1 KHz e 200 MHz, sendo o limite inferior da frequência específica para lâminas grandes de cristal e o limite superior de frequência específica para lâminas pequenas de cristal.
